@@ -7,7 +7,7 @@ Redes sociais:
 
 
 
-![Fraga GitHub stats](https://github-readme-stats.vercel.app/api?username=GuilhermeUrben&theme=blue-green)         ![Fraga GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeUrben&theme=blue-green)
+![Fraga GitHub stats](https://github-readme-stats.vercel.app/api?username=guilhermeurben&theme=blue-green)         ![Fraga GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermeurben&theme=blue-green)
 
 
 
